@@ -1,0 +1,11 @@
+names:
+- scissors
+- Lshape
+- screw
+- pencil
+nc: 4
+
+# path: ../Mydataset # dataset root dir
+train: Mydataset/images
+val: Mydataset/images
+# test: # test images (optional)
